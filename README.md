@@ -20,7 +20,7 @@ Libraries used are:-
 
 Well there is not too much to talk about in this project. 
 
-I used MySQL database but you may use the database you your choice. It's just the accurate one for the cause
+I used MySQL database but you may use the database of your choice. It's just the accurate one for the cause
 
 Play with the code to know more about it.
 
