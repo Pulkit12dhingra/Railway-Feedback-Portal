@@ -1,6 +1,6 @@
 (Go for emotions not for spellings cuz I am really bad at it.....)
 
-# Raiway Feedback Portal
+# Railway Feedback Portal
 
 First of all in order to run the code you should create a twilio account:-https://www.twilio.com/try-twilio. Signup or login and add account ID and authenticatiion token in the code( msg function ) (ps mine is not working). 
 
