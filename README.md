@@ -1,4 +1,4 @@
-(Go for emotions not for spellings cuz I am really bad at it.....)
+(Go for feelings not for spellings cuz I am really bad at it.....)
 
 # Railway Feedback Portal
 
